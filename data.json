@@ -1,0 +1,33 @@
+{"customers":[
+        {
+            "id":"1",
+            "name": "John Jones", 
+            "email": "john@john.com", 
+            "age": 55
+        },
+        {
+            "id":"2",
+            "name": "Bennnn Will", 
+            "email": "ben@john.com", 
+            "age": 15
+        },
+        {
+            "id":"3",
+            "name": "Sarah Hughes", 
+            "email": "sazzz@john.com", 
+            "age": 20
+        },
+        {
+            "id":"4",
+            "name": "Abbie Kenneth", 
+            "email": "abeee@john.com", 
+            "age":45
+        },
+        {
+            "id":"5",
+            "name": "Lynda Thomslinson", 
+            "email": "lyndas@john.com", 
+            "age": 27
+        }
+    ]
+}
